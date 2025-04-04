@@ -4,7 +4,7 @@
 Projeto desenvolvido durante os cursos de **Lógica de Programação** da [Alura](https://www.alura.com.br/), com foco na prática de **JavaScript**.  
 O sistema simula a compra de ingressos para um evento, permitindo ao usuário selecionar o setor, inserir a quantidade e verificar a disponibilidade.
 
-Além disso, o projeto inclui funções complementares como **calculadora**, **verificador de par ou ímpar** e **conversor de temperatura**.
+Além disso, o projeto inclui funções complementares como **calculadora**, **verificador de par ou ímpar**.
 
 ---
 
@@ -29,7 +29,6 @@ Além disso, o projeto inclui funções complementares como **calculadora**, **v
 ### ⚙️ Extras
 - 🧮 Calculadora com as 4 operações básicas.
 - 🔢 Verificador de número par ou ímpar.
-- 🌡️ Conversor de temperatura entre Celsius e Fahrenheit.
 
 ---
 
